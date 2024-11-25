@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <input_folder>
+    
+  </input_folder>
+  <output_folder>
+    
+  </output_folder>
+  <resize_percentage>
+    50
+  </resize_percentage>
+  <resize_resolution>
+    
+  </resize_resolution>
+</configuration>
